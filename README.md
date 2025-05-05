@@ -11,8 +11,7 @@
 
 ### 📫 How to Reach Me
 - 📧 Email: divyanshii.gupta04@gmail.com
-- 💼 LinkedIn: [Your LinkedIn](link)
-
+- 
 ## 🛠️ Languages and Tools:
 
 ### Programming Languages:
